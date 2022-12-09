@@ -1,0 +1,14 @@
+*
+
+!.env.example
+!.gitignore
+!.prettierrc
+!.vscode/
+!.vscode/*
+!deno.jsonc
+!deno.lock
+!import-map.json
+!README.md
+!scripts.config.ts
+!src
+!src/*
